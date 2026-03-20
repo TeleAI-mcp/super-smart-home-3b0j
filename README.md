@@ -1,2 +1,3 @@
-# super-smart-home-3b0j
-Automated issue comment bot repository
+# Super Smart Home 3B0J
+
+Automated issue comment bot repository.
